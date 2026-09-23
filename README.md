@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Sumanth-l-shetty/Sumanth-l-shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I’m Sumanth L Shetty👋
 
-Here are some ideas to get you started:
+I’m a second-year Artificial Intelligence and Machine Learning Engineering student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python, machine learning, and data science
+- 🛠️ Building practical projects and improving my problem-solving skills
+- 🎯 Goal: Become a skilled AI/ML engineer
+
+## Skills
+Python · Pandas · NumPy · scikit-learn · Streamlit · Git · GitHub
+
+## Featured project
+- [Student Performance Predictor](https://github.com/Sumanth-l-shetty/student-performance-predictor)
+  - A machine-learning web app built with Python, scikit-learn, and Streamlit.
